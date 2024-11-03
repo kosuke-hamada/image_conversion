@@ -1,6 +1,7 @@
 # image_conversion
+画像ファイルをwebPに変換するプログラムです。
 
-To install dependencies:
+bunをinstallして利用してください
 
 ```bash
 bun install
