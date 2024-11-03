@@ -1,5 +1,11 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
 
+# 出力ディレクトリ
+output/
+
+# 入力ディレクトリ
+
+
 # Logs
 
 logs
